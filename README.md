@@ -1,4 +1,6 @@
 # Mergesort-Visualization--Tutorial
+Youtube link: https://www.youtube.com/watch?v=U47Ueyo7S1g
+
 -The Story: As a new player, I want to learn how to play the game so that I can learn about sorting algorithms and have fun. 
 The definition of done (acceptance test): Level one is complete with an easily understood tutorial for how the game’s systems work so that the player can start gaming. 
 
@@ -18,7 +20,6 @@ The definition of done (acceptance test): Level one is complete with an easily u
 
 -User Story logging activities: The Story: As a player, I want to see how many minutes I spent on each level so I can analyze my performance. The definition of done (acceptance test): I will know this is done by starting a level and seeing my time and after I finish the level.
 
-#Wireframes 
 <img width="850" alt="image" src="https://user-images.githubusercontent.com/46071969/236844781-7147eef2-3eb2-425c-92d0-843c19a8732f.png">
 
 <img width="908" alt="image" src="https://user-images.githubusercontent.com/46071969/236846430-2f0db814-d376-4307-8eb4-10901c98f498.png">
@@ -28,6 +29,3 @@ The definition of done (acceptance test): Level one is complete with an easily u
 <img width="918" alt="image" src="https://user-images.githubusercontent.com/46071969/236846651-3275d190-69d1-4239-90ce-a30459adca3d.png">
 
 <img width="936" alt="image" src="https://user-images.githubusercontent.com/46071969/236846772-c09282c5-385b-46f9-bfcf-c1d559788ec4.png">
-
-Youtube link: https://www.youtube.com/watch?v=U47Ueyo7S1g
-
